@@ -17,7 +17,7 @@ Only the latest, publicly accessible APK files of the Newsche Android app will b
 ## 📲 Download Latest Android APK
 
 - Download the most recent official Android APK here:  
-  [Download (APK)](link-to-apk-file)
+  [Download (APK)](https://github.com/missnegar/NewsChe/blob/main/NewsChe.apk)
 
 - For iOS and the full-featured web version, visit:  
   [www.newsche.info](https://www.newsche.info)
